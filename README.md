@@ -1,16 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Scripts
 
-In the project directory, you can run:
+No diretório do projeto, rode:
+
+### `yarn`
+
+Para baixar as dependencias que faltam, como o node_modules por exemplo.
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Feito isso, rode a aplicação em modo de desenvolvedor.<br />
+Abra [http://localhost:3000](http://localhost:3000) para ver a aplicação no browser.
 
 
 ### `Aplicação`
 
 A aplicação pode ser utilizada para descobrir quanto é o salário líquido com base no salário bruto e a tabela de IRPF 2018.
-Além disso, podemos informar um salário líquido desejado e a aplicação irá informar o valar que devemos ganhar de salário bruto para obter o liquido informado.
+Além disso, podemos informar um salário líquido desejado e a aplicação irá informar o valor que devemos ganhar de salário bruto para obter o liquido informado.
